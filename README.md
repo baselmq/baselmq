@@ -4,9 +4,7 @@
 
 **baselmq/baselmq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/baselmq/baselmq/assets/75625539/a27ccd19-3f16-4ed4-a8b0-7305d3a102d1)
-
-
+![m](https://github.com/baselmq/baselmq/assets/75625539/3f558966-3087-4489-bd67-91d3d91b33c1)
 
 Here are some ideas to get you started:
 
