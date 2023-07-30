@@ -10,14 +10,14 @@
 📫 How to reach me : basel.qarqa@gmail.com
 <hr> 
 <h3 align="left">Projects : </h3>
-✅  Portfolio: <a href="https://github.com/baselmq/portfolio">Live</a> /
-<a href="https://baselmq.github.io/portfolio/">Code</a> <br>
-✅  B-Station: <a href="https://github.com/baselmq/B-Station">Live</a> /
-<a href="https://baselmq.github.io/B-Station/">Code</a> <br>
- ✅ Github Finder: <a href="https://github.com/baselmq/GitHub-API">Live</a> /
-<a href="https://baselmq.github.io/GitHub-API/">Code</a> <br>
-✅ DevBridge-Registration: <a href="https://github.com/baselmq/registration-devBridge">Live</a> /
-<a href="https://baselmq.github.io/registration-devBridge/">Code</a> <br>
+✅  Portfolio: <a href="https://baselmq.github.io/portfolio/">Live</a> /
+<a href="https://github.com/baselmq/portfolio">Code</a> <br>
+✅  B-Station: <a href="https://baselmq.github.io/B-Station/">Live</a> /
+<a href="https://github.com/baselmq/B-Station">Code</a> <br>
+ ✅ Github Finder: <a href="https://baselmq.github.io/GitHub-API/">Live</a> /
+<a href="https://github.com/baselmq/GitHub-API">Code</a> <br>
+✅ DevBridge-Registration: <a href="https://baselmq.github.io/registration-devBridge/">Live</a> /
+<a href="https://github.com/baselmq/registration-devBridge">Code</a> <br>
 
 
 
