@@ -21,12 +21,14 @@
 
 
 
+
  <br>
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="https://github.com/baselmq/baselmq/assets/75625539/12e4e5d3-af6d-43d5-a531-63cba8784d76" alt="css3" width="40" height="40"/>
-<img src="https://github.com/baselmq/baselmq/assets/75625539/f7c76d86-8151-448d-bcb7-134a1ed502fc" alt="css3" width="40" height="40"/>
-<img src="https://github.com/baselmq/baselmq/assets/75625539/1fbe89e8-955e-4acd-8ff0-3ca36d15e166" alt="css3" width="40" height="40"/>
+<img src="https://github.com/baselmq/baselmq/assets/75625539/e89c4552-8ca9-4376-857e-a601e1f60398" alt="css3" width="40" height="40"/>
+
+<img src="https://github.com/baselmq/baselmq/assets/75625539/5aeeb0fa-5919-4ae1-a0df-69c51524074a" alt="css3" width="40" height="40"/>
+
 <hr> 
 
