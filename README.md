@@ -26,9 +26,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="https://github.com/baselmq/baselmq/assets/75625539/e89c4552-8ca9-4376-857e-a601e1f60398" alt="css3" width="40" height="40"/>
+<img src="https://github.com/baselmq/baselmq/assets/75625539/e89c4552-8ca9-4376-857e-a601e1f60398" alt="css3" width="50" height="50"/>
 
-<img src="https://github.com/baselmq/baselmq/assets/75625539/5aeeb0fa-5919-4ae1-a0df-69c51524074a" alt="css3" width="40" height="40"/>
+<img src="https://github.com/baselmq/baselmq/assets/75625539/5aeeb0fa-5919-4ae1-a0df-69c51524074a" alt="css3" width="50" height="50"/>
 
 <hr> 
 
