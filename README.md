@@ -1,6 +1,8 @@
 ![m](https://github.com/baselmq/baselmq/assets/75625539/3f558966-3087-4489-bd67-91d3d91b33c1)
 
-<h1> Hi <img src="https://github.com/baselmq/baselmq/assets/75625539/9951f9eb-d9a7-4957-bfea-7671e97316a6" alt="hi" width="45" height="45" align="center"/> I'm Basel Qarqa </h1>
+# Hi 👋 I'm Basel Qarqa
+
+<!--<h1> Hi <img src="https://github.com/baselmq/baselmq/assets/75625539/9951f9eb-d9a7-4957-bfea-7671e97316a6" alt="hi" width="45" height="45" align="center"/> I'm Basel Qarqa </h1> -->
 
 <br />
 <div> <img src="https://github.com/baselmq/baselmq/assets/75625539/35b50b06-c969-4166-9241-2636ae9f7250" alt="graduate" width="27" height="27" align="center"/> 
