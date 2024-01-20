@@ -1,29 +1,31 @@
 ![m](https://github.com/baselmq/baselmq/assets/75625539/3f558966-3087-4489-bd67-91d3d91b33c1)
 
-# Hi 👋 I'm Basel Qarqa
+<h1> Hi <img src="https://github.com/baselmq/baselmq/assets/75625539/9951f9eb-d9a7-4957-bfea-7671e97316a6" alt="hi" width="45" height="45" align="center"/> I'm Basel Qarqa </h1>
 
-🎓 Bachelor's degree in Computer Information Systems
 <br />
-📫 basel.qarqa@gmail.com
+<div> <img src="https://github.com/baselmq/baselmq/assets/75625539/35b50b06-c969-4166-9241-2636ae9f7250" alt="graduate" width="27" height="27" align="center"/> 
+    Bachelor's degree in Computer Information Systems </div>
+    
+<div> <img src="https://github.com/baselmq/baselmq/assets/75625539/7eef5e15-ac18-442f-92f1-b26127a31c06" alt="email" width="25" height="25" align="center"/> basel.qarqa@gmail.com </div>
 
 <hr />
 <h3 align="left">Projects:</h3>
 
 <div style="display: flex; align-items: center; gap: 5px">
 <img src="https://github.com/baselmq/baselmq/assets/75625539/563a3610-6cb9-4cba-b117-7736084f5b01" alt="correct" width="22" height="22" align="center"/>
-    Portfolio: <a href="https://baselmq.github.io/portfolio/">Live</a> / <a href="https://github.com/baselmq/portfolio">Code</a> <br /> </div>
+    Portfolio: <a href="https://baselmq.github.io/portfolio/">Live</a> | <a href="https://github.com/baselmq/portfolio">Code</a> <br /> </div>
 
 <div style="display: flex; align-items: center; gap: 5px">
 <img src="https://github.com/baselmq/baselmq/assets/75625539/563a3610-6cb9-4cba-b117-7736084f5b01" alt="correct" width="22" height="22" align="center"/>
-    B-Station: <a href="https://baselmq.github.io/B-Station/">Live</a> / <a href="https://github.com/baselmq/B-Station">Code</a> <br /> </div>
+    B-Station: <a href="https://baselmq.github.io/B-Station/">Live</a> | <a href="https://github.com/baselmq/B-Station">Code</a> <br /> </div>
 
 <div style="display: flex; align-items: center; gap: 5px">
 <img src="https://github.com/baselmq/baselmq/assets/75625539/563a3610-6cb9-4cba-b117-7736084f5b01" alt="correct" width="22" height="22" align="center"/>
-    Github Finder: <a href="https://baselmq.github.io/GitHub-API/">Live</a> / <a href="https://github.com/baselmq/GitHub-API">Code</a> <br /> </div>
+    Github Finder: <a href="https://baselmq.github.io/GitHub-API/">Live</a> | <a href="https://github.com/baselmq/GitHub-API">Code</a> <br /> </div>
 
 <div style="display: flex; align-items: center; gap: 5px">
 <img src="https://github.com/baselmq/baselmq/assets/75625539/563a3610-6cb9-4cba-b117-7736084f5b01" alt="correct" width="22" height="22" align="center"/>
-    DevBridge-Registration: <a href="https://baselmq.github.io/registration-devBridge/">Live</a> / <a href="https://github.com/baselmq/registration-devBridge">Code</a> <br /> </div>
+    DevBridge-Registration: <a href="https://baselmq.github.io/registration-devBridge/">Live</a> | <a href="https://github.com/baselmq/registration-devBridge">Code</a> <br /> </div>
 
 <hr />
 
@@ -53,3 +55,4 @@
 
 <img src="https://github.com/baselmq/baselmq/assets/75625539/5a5cf0ca-3aee-41e2-86be-d4c1e0e20ec0" alt="vscode" width="50" height="50" hspace="7"/>
 </div>
+
